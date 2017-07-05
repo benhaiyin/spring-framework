@@ -34,7 +34,9 @@ spring-*/src/main/java/META-INF/MANIFEST.MF
 *.ipr
 *.iws
 .idea
+.metadata
 out
 test-output
 atlassian-ide-plugin.xml
 .gradletasknamecache
+.gitignore
